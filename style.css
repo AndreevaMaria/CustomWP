@@ -1,0 +1,37 @@
+/* 
+Theme Name: Custom Theme
+Version: 1.0
+Description: учебные цели
+Author: Andreeva Maria
+Author URI: http://itstep.org
+
+All files, unless otherwise stated, are released under the GNU General Public
+License version 2.0 (http://www.gnu.org/licenses/gpl-2.0.html)
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned
+with others.
+*/
+
+body {
+    background-color: #f1d0ee;
+}
+nav li a {
+    margin-left: 5px;
+    margin-right: 5px;
+    color: white;
+}
+nav {
+    width: 100%;
+}
+h1 a:hover {
+    text-decoration: none;
+    color: #2f0727;
+}
+.blog-header p, a {
+    color: #854277;
+    text-align: center;
+}
+.blog-header {
+    margin-left: auto;
+    margin-right: auto;
+}
